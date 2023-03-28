@@ -24,7 +24,7 @@ start DoublePendulumSimulation.sln
 
 **Releases**
 
-- Download the latest release for the most stable version
+- Download the latest release: https://github.com/Programmer-RZ/Double-Pendulum/releases/tag/v0.1
 
 # Features
 **ImGUI**
